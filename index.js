@@ -2,7 +2,7 @@
 function f(
   a,
   b,
-  c
+  c,
 ) {
 
 }
@@ -11,7 +11,7 @@ function f(
 function f2(
   a,
   b,
-  c
+  c,
 ) {
 
 }
@@ -20,7 +20,7 @@ function f2(
 function f3(
   a,
   b,
-  c
+  c,
 ) {
 
 }
