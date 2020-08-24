@@ -2,7 +2,8 @@
 function f(
   a,
   b,
-  c
+  c,
+  d
 ) {
 
 }
@@ -11,7 +12,7 @@ function f(
 function f2(
   a,
   b,
-  c
+  renamed
 ) {
 
 }
@@ -19,8 +20,7 @@ function f2(
 // Last entry will be removed.
 function f3(
   a,
-  b,
-  c
+  b
 ) {
 
 }
